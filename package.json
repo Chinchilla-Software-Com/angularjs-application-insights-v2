@@ -1,6 +1,6 @@
 {
-  "name": "angularjs-application-insights-v2",
-  "version": "0.1.0",
+  "name": "@chinchilla-software/angularjs-application-insights-web",
+  "version": "2.0.1",
   "description": "AngularJS module for Microsoft Application Insights Javascript v2 SDK",
   "repository": {
     "type": "git",
@@ -43,6 +43,8 @@
     "stats"
   ],
   "devDependencies": {
+    "@types/applicationinsights-js": "^1.0.9",
+    "@types/angular": "^1.8.1",
     "gulp": "^4.0.2",
     "gulp-append-prepend": "^1.0.8",
     "gulp-clean": "^0.4.0",
