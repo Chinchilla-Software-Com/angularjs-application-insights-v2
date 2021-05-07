@@ -1,19 +1,18 @@
 {
   "name": "angularjs-application-insights-v2",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "AngularJS module for Microsoft Application Insights Javascript v2 SDK",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tamilvasan/angularjs-application-insights-v2"
+    "url": "https://github.com/Chinchilla-Software-Com/angularjs-application-insights-v2"
   },
   "author": {
-    "name": "Sreenivasan",
-    "email": "eshock.vasan@gmail.com",
-    "url": "https://www.bitiniyan.com"
+    "name": "Chinchilla Software (originally Sreenivasan)",
+    "url": "https://github.com/Chinchilla-Software-Com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tamilvasan/angularjs-application-insights-v2/issues"
+    "url": "https://github.com/Chinchilla-Software-Com/angularjs-application-insights-v2/pulls"
   },
   "main": "dist/angularjs-appinsights-v2.min.js",
   "scripts": {
@@ -43,7 +42,6 @@
     "applicationinsights",
     "stats"
   ],
-
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-append-prepend": "^1.0.8",
